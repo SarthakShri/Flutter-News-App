@@ -1,16 +1,7 @@
-# flutter_news_app_ss
+# Flutter News App : NextGenNews
 
-A new Flutter project.
+A Flutter project to dissplay news in a homepage and also category wise
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
+![Screenshot 2022-04-19 at 8 35 53 PM](https://user-images.githubusercontent.com/72563740/164035696-4d014f23-c56c-45d2-8fff-aab97e4697bc.jpg)
+![Screenshot 2022-04-19 at 8 35 24 PM](https://user-images.githubusercontent.com/72563740/164035718-75e0a61e-31e2-48f2-8bc6-bfed8c149dde.jpg)
